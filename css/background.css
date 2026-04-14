@@ -1,0 +1,25 @@
+.box1{
+    width: 600px;
+    height: 400px;
+    background-image: url('../images/first.jpg');
+    border: 2px solid black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box2{
+    width: 500px;
+    height: 700px;
+    border: 2px solid black;
+    background-image: url('../images/second.jpg');
+    background-size: cover;
+    
+}
+.box3{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    background-image: url('../images/third.PNG');
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-size: cover; */
+}

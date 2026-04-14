@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@font-face {
+    font-family:'BricolageGrotesque';
+    src: url(../fonts/BricolageGrotesque-ExtraLight.ttf);
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BricolageGrotesque';
+    src: url(../fonts/BricolageGrotesque-SemiBold.ttf);
+    font-weight: 600;
+    font-style: bold;
+}
+@font-face {
+    font-family:'Caveat' ;
+    src: url(../fonts/Caveat-Medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family:'Caveat' ;
+    src: url(../fonts/Caveat-SemiBold.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:darkblue;
+}
+h3{
+        text-transform: uppercase;
+        text-decoration: underline;
+        color:#ff0000;
+}
+.p1{
+    font-family: serif;
+    color:green;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+.p2{
+    font-family: sans-serif;
+    color: blueviolet;
+}
+.p3{
+    font-family: monospace; 
+    color: brown;
+}
+.p4{
+    font-family: fantasy;
+    
+}
+.p5{
+    font-family: cursive;
+}
+.p6{
+  font-family: "Bitcount Grid Double", system-ui;  
+}
+.p7{
+     font-family: "Lobster Two", sans-serif;
+}
+.p8{
+  font-family:'BricolageGrotesque';
+
+    font-weight: 200;
+    font-style: normal;
+}
+.p9{
+   font-family: 'BricolageGrotesque';  
+    font-weight: 600;
+    font-style: bold;
+}
+.p10{
+    font-family:'Caveat' ;
+    font-weight: 500;
+    font-style: normal;
+}
+.p11{
+     font-family:'Caveat' ;
+      font-weight: 600;
+    font-style: normal;
+}

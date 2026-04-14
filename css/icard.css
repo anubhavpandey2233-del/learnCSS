@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 30px 0;
+}
+.icard{
+    width: 450px;
+    height: 350px;
+    /* border: 2px solid black; */
+    margin: 0 auto;
+    box-shadow: 1px 1px 40px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
+}
+.icrdimag{
+    width: 50%;
+    height: 100%;
+    /* border: 2px  solid rgb(11, 14, 184); */
+    float: left;
+}
+.icardrec{
+    width: 50%;
+    height: 100%;
+    /* border: 2px  solid red; */
+    float: left;
+    padding: 30px;
+    padding-top: 80PX;
+    line-height: 30PX;
+}
+.icrdimag img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+   border-radius: 10px 0 0 10px;
+}

@@ -1,0 +1,24 @@
+.p1{
+    text-decoration: underline;
+}
+.p2{
+    text-decoration: overline;
+}
+.p3{
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+}
+.p4{
+    text-indent: 20px;
+}   
+.p5{
+    letter-spacing: 10px;
+}
+.p6{
+    word-spacing: 10px;
+}
+.p7{
+    line-height: 70px;
+}

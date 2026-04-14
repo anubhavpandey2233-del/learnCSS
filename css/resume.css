@@ -1,0 +1,31 @@
+#pp{
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+}
+.demo{
+    color: black;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+.cls1{
+    color: red;
+    
+}
+p{
+    color: brown;
+    text-indent: 200px;
+    letter-spacing: 2px;
+    line-height:40px;
+    text-transform: capitalize;
+}
+#id1{
+    color: green;
+   
+}  
+#id2 {
+    color: palevioletred;
+    
+}  
+
