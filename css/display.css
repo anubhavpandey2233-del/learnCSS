@@ -1,4 +1,4 @@
-p{
+.p1{
     width: 200px;
     height: 100px;
     margin: 50px 70px;
@@ -9,8 +9,23 @@ span{
     width: 100px;
     margin: 50px 20px;
 }
-a{
+.a1{
     height: 200px;
     width: 100px;
     margin: 50px 20px;
+    display: none;
+}
+.p2{
+    display: inline-block;
+    width: 200px;
+    height: 100x;
+    margin: 20px 30px;
+    padding: 20px 30px;
+}
+.a2{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 50px;
+    padding: 50px;
 }

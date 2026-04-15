@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+
+}
+
+img {
+    width: 50x;
+    height: 50px;
+
+}
+
+.logo {
+    float: left;
+}
+
+header nav {
+    margin-top: 20px;
+    float: right;
+}
+
+
+
+header nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+}
