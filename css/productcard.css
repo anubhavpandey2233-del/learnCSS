@@ -59,6 +59,9 @@ body{
     font-size: 25px;
 
 }
+.quantitycart span{
+    color: white;
+}
 
 .quantitycart .cart {
     width: 150px;
@@ -73,4 +76,5 @@ body{
     text-align: center;
     padding: 8px;
     border-radius: 20px;
+    text-decoration: none;
 }
