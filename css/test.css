@@ -142,7 +142,8 @@ body {
 }
 .productcard .shoedata .colors .d1{
     float:left;
-    background-color:#DD5135 ;
+    /* background-color:#DD5135 ; */
+    border: 2px solid red;
   
     
 }
@@ -174,3 +175,10 @@ body {
 
 
 
+.clr div {
+    width: 17px;
+    height: 17px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 2px;
+}
