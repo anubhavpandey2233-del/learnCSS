@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif
+}
+
+.productcard {
+    width: 400px;
+    height: 600px;
+    /* border: 2px solid black; */
+    margin: 70px auto;
+    border-radius: 35px;
+    box-shadow: 0 0 30px 0 rgba(0, 0,0, .4);
+
+}
+
+.productcard .shoeimg {
+    width: 100%;
+    height: 50%;
+    /* border: 2px solid green; */
+    background-color: #e14b34;
+    border-radius: 20px 20px 0 0;
+    padding: 20px 0 0 30px;
+    position: relative;
+}
+
+.productcard .shoeimg i {
+    font-size: 30px;
+    color: white;
+    font-weight: 800;
+}
+
+
+.productcard .shoeimg .p1 {
+    margin: 30px 0 0 0px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 5px;
+    font-weight: 550;
+
+}
+
+.productcard .shoeimg .p2 {
+    color: white;
+    font-size: 15px;
+    padding: 15px 0 0 0px;
+    line-height: 20px;
+}
+
+.productcard .shoeimg img {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: -23px;
+    left: 160px;
+}
+
+.productcard .shoedata {
+    width: 100%;
+    height: 50%;
+    /* border: 2px solid red; */
+    padding: 25px;
+    position:relative;
+}
+
+.productcard .shoedata span {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+.productcard .shoedata .a6 {
+    display: inline-block;
+    width: 55px;
+    height: 20px;
+    color: white;
+    background-color: #3AE79E;
+    text-decoration: none;
+    text-align: center;
+    padding: 2px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+.productcard .shoedata .p3 {
+    text-transform: uppercase;
+    font-size: 13px;
+    padding-top: 8px;
+}
+
+.productcard .shoedata i {
+    padding-top: 7px
+}
+
+.productcard .shoedata .istar {
+    color: gray;
+}
+
+.productcard .shoedata .p4 {
+    text-transform: uppercase;
+    font-size: 13px;
+    padding-top: 20px;
+    font-size: 16px;
+}
+
+.productcard .shoedata .at {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    margin-top: 20px;
+    /* border: 2px solid black; */
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 4px;
+}
+
+.productcard .shoedata .a4 {
+    background-color: #D75531;
+      color: white;
+}
+
+.productcard .shoedata .p5 {
+    padding-top: 15px;
+}
+.productcard .shoedata .colors .clr{
+    width: 25px;
+    height: 25px;
+    /* border: 2px solid black; */
+    border-radius: 24px;
+    margin-right: 35px;
+    margin-top: 15px;
+}
+.productcard .shoedata .colors .d1{
+    float:left;
+    background-color:#DD5135 ;
+  
+    
+}
+.productcard .shoedata .colors .d2{
+    float:left;
+     background-color: #10D054;
+}
+
+.productcard .shoedata .colors .d3{
+    float:left;
+    background-color: #E5BC17;
+}
+.productcard .shoedata .price{
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    background-color: #29EB70;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px 0 0 90px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    right: -15px;
+    margin-top: 5px;
+}
+
+
+
